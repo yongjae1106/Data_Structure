@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="middle.cpp" />
+    <ClCompile Include="..\..\P11_loldic_dual_tree\P11_loldic_dual_tree\0529_1.cpp" />
+    <ClCompile Include="..\..\P11_loldic_dual_tree\P11_loldic_dual_tree\0528_1.cpp" />
+    <ClCompile Include="..\..\P7_loldic_dual_linklist\loldic_DL 0429\보고싶어아직.c" />
+    <ClCompile Include="..\..\P6_loldic_single_linklist\linklist_test0416\소스.c" />
+    <ClCompile Include="..\..\P6_loldic_single_linklist\linklist_test0416\밤이되오케이.c" />
+    <ClCompile Include="0604.cpp" />
+    <ClCompile Include="0605.cpp" />
+    <ClCompile Include="0605 1.cpp" />
+  </ItemGroup>
+</Project>
